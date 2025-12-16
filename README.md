@@ -8,18 +8,7 @@
 
 </div>
 
----
-
-## 🚀 About Me
-
 **Full-Stack Developer** specializing in web applications and database systems. Currently pursuing **Business Information Technology** at Haaga-Helia UAS with hands-on experience in enterprise-level software development.
-
-- 💻 Building scalable applications with **Java, Python & JavaScript**
-- 🗄️ Experienced in **SQL (PostgreSQL) & NoSQL (MongoDB)** databases
-- 🔧 Working with business automation and cloud technologies
-- 🎯 **Seeking Software Developer / IT Analyst roles**
-- 🌍 Multilingual professional: English (Highly Proficient) | Finnish (Intermediate)
-
 ---
 
 ## 🛠️ Tech Stack
@@ -43,7 +32,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -116,25 +104,6 @@ NoSQL database implementation showcasing document-based data modeling and querie
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
 [View Repository →](https://github.com/MohammadHanifArghushi/mongodb_project)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💰 [Budget Tracker](https://github.com/MohammadHanifArghushi/6-budget-tracker-MohammadHanifArghushi-main)
-**Financial Management Application**
-
-Personal finance tracker with expense categorization and budget monitoring.
-
-**Tech Stack:**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[View Repository →](https://github.com/MohammadHanifArghushi/6-budget-tracker-MohammadHanifArghushi-main)
-
-</td>
-<td width="50%">
 
 </td>
 </tr>

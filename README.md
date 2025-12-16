@@ -1,6 +1,6 @@
-<div align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm Hanif
 
-### Hi, I'm Hanif
+<div align="center">
 
 <img src="assets/banner.png" alt="Hanif Arghushi Banner" width="100%">
 

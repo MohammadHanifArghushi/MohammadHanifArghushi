@@ -8,7 +8,7 @@ Full-Stack Developer specializing in web applications and database systems. Curr
 
 </div>
 
-## 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,7 +20,7 @@ Full-Stack Developer specializing in web applications and database systems. Curr
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -29,7 +29,7 @@ Full-Stack Developer specializing in web applications and database systems. Curr
 
 </div>
 
-## 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
 <table>
 <tr>
@@ -62,7 +62,7 @@ E-commerce platform with shopping cart and order processing.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🗄️ [MongoDB Project](https://github.com/MohammadHanifArghushi/mongodb_project)
 NoSQL database with document modeling and queries.
@@ -78,7 +78,7 @@ NoSQL database with document modeling and queries.
 
 [🔗 View All Projects](https://github.com/MohammadHanifArghushi?tab=repositories)
 
-## 📫 Let's Connect
+<h2>📫 Let's Connect</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-arghushi-1423841bb/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mha.lafg@gmail.com)

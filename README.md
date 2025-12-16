@@ -16,7 +16,7 @@
 
 - 💻 Building scalable applications with **Java, Python & JavaScript**
 - 🗄️ Experienced in **SQL (PostgreSQL) & NoSQL (MongoDB)** databases
-- ☁️ Working with **Azure Cloud Services** and business automation tools
+- 🔧 Working with business automation and cloud technologies
 - 🎯 **Seeking Software Developer / IT Analyst roles**
 - 🌍 Multilingual professional: English (Highly Proficient) | Finnish (Intermediate)
 
@@ -50,99 +50,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadHanifArghushi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadHanifArghushi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 📚 [Hanif Bookstore](https://github.com/MohammadHanifArghushi/hanifbookstore)
-Full-stack bookstore with RESTful API, CRUD operations, and database integration.
-
-**Tech:** Java • Spring Boot • SQL  
-[View Code →](https://github.com/MohammadHanifArghushi/hanifbookstore)
-
-</td>
-<td width="50%">
-
-### 💪 [Personal Trainer App](https://github.com/MohammadHanifArghushi/personal-trainer-frontend)
-Modern fitness management application with responsive UI/UX design.
-
-**Tech:** TypeScript • React • REST API  
-[View Code →](https://github.com/MohammadHanifArghushi/personal-trainer-frontend)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 [Diaspora Grocery Service](https://github.com/MohammadHanifArghushi/diaspora-grocery-service)
-E-commerce platform with shopping cart and order processing system.
-
-**Tech:** JavaScript • HTML • Backend APIs  
-[View Code →](https://github.com/MohammadHanifArghushi/diaspora-grocery-service)
-
-</td>
-<td width="50%">
-
-### 🗄️ [MongoDB Project](https://github.com/MohammadHanifArghushi/mongodb_project)
-NoSQL database implementation with document modeling and queries.
-
-**Tech:** Python • MongoDB • Data Modeling  
-[View Code →](https://github.com/MohammadHanifArghushi/mongodb_project)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 🔗 [View All Projects](https://github.com/MohammadHanifArghushi?tab=repositories)
-
-</div>
-
----
-
-## 🎓 Education
-
-**Bachelor of Business Information Technology** | Haaga-Helia UAS | *2023 – 2026*  
-Full-Stack Development • Database Design • Cloud Services
-
-**Bachelor of Accounting** | Kabul University | *2018 – 2022* | CGPA 3.4/4
-
----
-
-## 💼 Experience Highlights
-
-**Founder & Project Manager** | T4S Nonprofit | *2020 – 2021*  
-Led educational initiatives impacting 200+ students, managing full project lifecycle from planning to delivery.
-
-**Accounting & Finance Intern** | FNCEC | *2016 – 2018*  
-Automated financial processes, managed databases, and ensured data integrity for audit compliance.
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-arghushi-1423841bb/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mha.lafg@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 Building scalable solutions at the intersection of technology and business
-
-![Profile Views](https://komarev.com/ghpvc/?username=MohammadHanifArghushi&color=blueviolet&style=for-the-badge)
 
 </div>
 

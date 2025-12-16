@@ -81,7 +81,6 @@ NoSQL database with document modeling and queries.
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-arghushi-1423841bb/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mha.lafg@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MohammadHanifArghushi&color=blueviolet&style=flat-square)
 

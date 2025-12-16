@@ -8,7 +8,7 @@ Full-Stack Developer specializing in web applications and database systems. Curr
 
 </div>
 
-<p style="font-size: 24px; font-weight: bold;">🛠️ Tech Stack</p>
+## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,7 +20,7 @@ Full-Stack Developer specializing in web applications and database systems. Curr
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p style="font-size: 24px; font-weight: bold;">📊 GitHub Stats</p>
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -29,7 +29,7 @@ Full-Stack Developer specializing in web applications and database systems. Curr
 
 </div>
 
-<p style="font-size: 24px; font-weight: bold;">🚀 Featured Projects</p>
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -78,7 +78,7 @@ NoSQL database with document modeling and queries.
 
 [🔗 View All Projects](https://github.com/MohammadHanifArghushi?tab=repositories)
 
-<p style="font-size: 24px; font-weight: bold;">📫 Let's Connect</p>
+## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-arghushi-1423841bb/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mha.lafg@gmail.com)

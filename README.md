@@ -8,7 +8,10 @@
 
 </div>
 
-**Full-Stack Developer** specializing in web applications and database systems. Currently pursuing **Business Information Technology** at Haaga-Helia UAS with hands-on experience in enterprise-level software development.
+---
+
+Full-Stack Developer specializing in web applications and database systems. Currently pursuing Business Information Technology at Haaga-Helia UAS with hands-on experience in enterprise-level software development.
+
 ---
 
 ## 🛠️ Tech Stack

@@ -47,10 +47,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadHanifArghushi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadHanifArghushi&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadHanifArghushi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadHanifArghushi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=MohammadHanifArghushi&theme=tokyonight&hide_border=true)
 
 </div>
 
